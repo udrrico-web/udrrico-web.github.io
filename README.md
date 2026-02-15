@@ -1,0 +1,1 @@
+Am junior in JavaScript 
